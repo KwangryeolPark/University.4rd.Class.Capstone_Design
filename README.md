@@ -3,6 +3,7 @@ This is my Capstone Design project.
 This is about balancing robot, which uses __PID control for balancing__.   
 This robot uses pitch angle for sensing position and __its position should be stable__.   
 The robot uses weight which locates on __top of the robot__ for mechanical stability.   
+The robot's body is made of 3D printed things.   
 
 # Used devices and pinout
 <table style="width:100%">
@@ -70,4 +71,4 @@ If the robot does not respond to more bigger error, then __you have to increase 
 MPU6050 & Kalman filter libraries: <a href="http://www.tkjelectronics.com"> Here </a> 
 
 # Image
-<img src="https://github.com/KwangryeolPark/University.4rd.Class.Capstone_Design/blob/master/KakaoTalk_20220407_163209427.jpg"></img>
+<img src="https://github.com/KwangryeolPark/University.4rd.Class.Capstone_Design/blob/master/PNG/Assemble.png"></img>
