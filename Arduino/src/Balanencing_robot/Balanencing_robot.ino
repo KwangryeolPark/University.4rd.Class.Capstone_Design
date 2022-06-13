@@ -1,3 +1,12 @@
+/*
+  Copyright 2022 Kwangryeol Park. All rights reserved.
+  
+  Owner: Kwangryeol Park.
+  Email: pkr7098@gmail.com
+  
+  2022-06-13
+*/
+
 #include <Wire.h>
 #include <Kalman.h>
 #include <CMPU6050.h>
