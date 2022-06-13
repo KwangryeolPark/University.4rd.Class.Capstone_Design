@@ -71,7 +71,7 @@ If the robot does not respond to more bigger error, then __you have to increase 
 MPU6050 & Kalman filter libraries: <a href="http://www.tkjelectronics.com"> Here </a> 
 
 # Image
-<img src="/images/Assemble.png"></img>
+<img src="/images/Assemble.png"> Robot image </img>
 
 # Video
 <html>
