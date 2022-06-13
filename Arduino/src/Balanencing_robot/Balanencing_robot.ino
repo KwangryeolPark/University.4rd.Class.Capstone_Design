@@ -32,7 +32,7 @@ PID pid;
 uint32_t timer = 0;
 uint32_t previous = 0;
 PID_TYPE gap = 0;
-PID_TYPE target = -3.1;  //  -2.9
+PID_TYPE target = -3.1;  //  -3.1
 
 //#define GET_OFFSET_ANGLE
 

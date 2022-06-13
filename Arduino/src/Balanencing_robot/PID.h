@@ -11,9 +11,9 @@ const PID_TYPE I_gain = P_gain * 2 / Tc;//0.9;
 const PID_TYPE D_gain = P_gain * Tc * 0.125;//43;
 */
 
-const PID_TYPE P_gain = 70;
-const PID_TYPE I_gain = 200;//0.9;
-const PID_TYPE D_gain = 1;//43;
+const PID_TYPE P_gain = 75;
+const PID_TYPE I_gain = 260;//0.9;
+const PID_TYPE D_gain = 0.7;//43;
 
 class PID {
   public:
