@@ -62,7 +62,7 @@ const PID_TYPE I_gain = 260;//0.9;
 const PID_TYPE D_gain = 0.7;//43;
 ``` 
    
-# How to tuning the PID gains?
+# How to tune the PID gains?
 If the robot react to much to immediate input or immediate variation in angle, then __you should reduce D gain___.   
 If the robot does not respond to the minimal error, then __you have to increase I gain__.   
 If the robot does not respond to more bigger error, then __you have to increase P gain__.   
