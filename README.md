@@ -1,5 +1,9 @@
 # Copyright 2022 Kwangryeol Park. All rights reserved.
 Copyright 2022 Kwangryeol Park. All rights reserved.   
+# Contact
+Owner: Kwangryeol Park.   
+Email: pkr7098@gmail.com   
+Site: <a href="https://pkr7098.tistory.com/"> Tistory blog </a> 
 <br>
 <br>
 <br>
@@ -87,9 +91,4 @@ MPU6050 & Kalman filter libraries: <a href="http://www.tkjelectronics.com"> Here
     <source src="/videos/KakaoTalk_20220613_143041636.mp4" type="video/mp4">
 </video>
 </html>
-
-# Contact
-If you want to use this, then you have contact me and must obtain a license to use this repository and related files, codes etc from me.   
-Name: Kwangryeol Park.   
-Email: pkr7098@gmail.com   
-Site: <a href="https://pkr7098.tistory.com/"> Tistory blog </a>   
+  
