@@ -74,6 +74,4 @@ MPU6050 & Kalman filter libraries: <a href="http://www.tkjelectronics.com"> Here
 <img src="https://github.com/KwangryeolPark/University.4rd.Class.Capstone_Design/blob/master/PNG/Assemble.png"></img>
 
 # Video
-<video with = "320" height = "240" controls>
-    <source src = "https://tv.kakao.com/v/429553046">
-</video>
+<a href="https://tv.kakao.com/v/429553046"> Here Kakao TV </a>
