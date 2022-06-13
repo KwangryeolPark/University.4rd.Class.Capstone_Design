@@ -77,7 +77,7 @@ MPU6050 & Kalman filter libraries: <a href="http://www.tkjelectronics.com"> Here
 <html>
 <a href="https://tv.kakao.com/v/429553046"> Here Kakao TV </a>
 <br></br>
-<video src="https://github.com/KwangryeolPark/University.4rd.Class.Capstone_Design/blob/master/KakaoTalk_20220613_143041636.mp4" controls>
-    <source src="https://github.com/KwangryeolPark/University.4rd.Class.Capstone_Design/blob/master/KakaoTalk_20220613_143041636.mp4" type="video/mp4">
+<video src="/videos/KakaoTalk_20220613_143041636.mp4" controls>
+    <source src="/videos/KakaoTalk_20220613_143041636.mp4" type="video/mp4">
 </video>
 </html>
