@@ -75,5 +75,5 @@ MPU6050 & Kalman filter libraries: <a href="http://www.tkjelectronics.com"> Here
 
 # Video
 <video with = "320" height = "240" controls>
-    <source src = "//t1.kakaocdn.net/thumb/C640x360.q50.fjpg/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva8q8g4ulvbgxylrn75efqai%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212004811%26signature%3DZSeHEV3%252F5nwe8BgumjbF841MT9k%253D%26ts%3D1655096011">
-    </video>
+    <source src = "https://tv.kakao.com/v/429553046">
+</video>
