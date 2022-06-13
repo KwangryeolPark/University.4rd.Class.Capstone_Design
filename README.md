@@ -1,3 +1,9 @@
+# Copyright 2022 Kwangryeol Park. All rights reserved.
+Copyright 2022 Kwangryeol Park. All rights reserved.   
+<br>
+<br>
+<br>
+
 # About this project
 This is my Capstone Design project.   
 This is about balancing robot, which uses __PID control for balancing__.   
@@ -87,7 +93,3 @@ If you want to use this, then you have contact me and must obtain a license to u
 Name: Kwangryeol Park.   
 Email: pkr7098@gmail.com   
 Site: <a href="https://pkr7098.tistory.com/"> Tistory blog </a>   
-<br>
-<br>
-<br>
-## Copyright 2022 Kwangryeol Park. All rights reserved.
